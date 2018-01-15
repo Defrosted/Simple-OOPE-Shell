@@ -7,11 +7,11 @@ Unfortunately the program and its comments are in Finnish, because it was a requ
 
 Commands:
 - md &lt;name&gt;
-    - Creates a directory with &lt;name>
+    - Creates a directory with &lt;name&gt;
 - mf &lt;name&gt; &lt;size&gt;
-    - Creates a file with <name> and <size>
+    - Creates a file with &lt;name&gt; and &lt;size&gt;
 - cd &lt;name&gt;
-    - Navigates to directory by <name>, if possible
+    - Navigates to directory by &lt;name&gt;, if possible
 - ls &lt;name&gt;
     - Lists contents of current directory if no &lt;name&gt; is given
     - If &lt;name&gt; is given, prints out information of a corresponding directory or file
@@ -21,7 +21,7 @@ Commands:
     - Renames &lt;original&gt; file or directory to &lt;new&gt;
     - Cannot be used to move files or directories
 - cp &lt;filename&gt; &lt;new&gt;
-    - Creates a copy of file &lt;filename> with the name of &lt;new&gt;
+    - Creates a copy of file &lt;filename&gt; with the name of &lt;new&gt;
 - rm &lt;name&gt;
     - Removes a corresponding directory or file with &lt;name&gt;
 - exit
