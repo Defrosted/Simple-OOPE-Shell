@@ -6,23 +6,23 @@ This program was the course work for the course OOPE (Olio-ohjelmoinnin perustee
 Unfortunately the program and its comments are in Finnish, because it was a requirement on the course.
 
 Commands:
-- md <name>
-    - Creates a directory with <name>
-- mf <name> <size>
+- md &lt;name&gt;
+    - Creates a directory with &lt;name>
+- mf &lt;name&gt; &lt;size&gt;
     - Creates a file with <name> and <size>
-- cd <name>
+- cd &lt;name&gt;
     - Navigates to directory by <name>, if possible
-- ls <name>
-    - Lists contents of current directory if no <name> is given
-    - If <name> is given, prints out information of a corresponding directory or file
+- ls &lt;name&gt;
+    - Lists contents of current directory if no &lt;name&gt; is given
+    - If &lt;name&gt; is given, prints out information of a corresponding directory or file
 - find
     - Recursively lists content of current directory and its sub-directories
-- mv <original> <new>
-    - Renames <original> file or directory to <new>
+- mv &lt;original&gt; &lt;new&gt;
+    - Renames &lt;original&gt; file or directory to &lt;new&gt;
     - Cannot be used to move files or directories
-- cp <filename> <new>
-    - Creates a copy of file <filename> with the name of <new>
-- rm <name>
-    - Removes a corresponding directory or file with <name>
+- cp &lt;filename&gt; &lt;new&gt;
+    - Creates a copy of file &lt;filename> with the name of &lt;new&gt;
+- rm &lt;name&gt;
+    - Removes a corresponding directory or file with &lt;name&gt;
 - exit
     - Terminates the program
